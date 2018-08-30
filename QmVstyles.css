@@ -3,6 +3,7 @@ p {
   color: #66FF00;
   text-align: justify;
   font-weight: bold;
+  font-family: monospace;
 }
 
 body {
