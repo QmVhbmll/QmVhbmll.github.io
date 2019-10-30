@@ -6,6 +6,13 @@ p {
   font-family: monospace;
 }
 
+h2 {
+  color: #66FF00;
+  text-align: justify;
+  font-weight: bold;
+  font-family: monospace;
+}
+
 body {
   background-color: black;
 }
